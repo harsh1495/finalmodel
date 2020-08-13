@@ -1,1 +1,1 @@
-web: gunicorn finalmodel.wsgi
+web: gunicorn app.app
