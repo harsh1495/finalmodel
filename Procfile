@@ -1,1 +1,1 @@
-web: python -m http.server 9000
+web: python -m http.server $PORT 
